@@ -79,5 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/YYforymj/YYforymj.github.io.git
-  branch: master
+  repo: 
+    github: https://github.com/YYforymj/YYforymj.github.io.git,master
+    giteee: https://gitee.com/YYforymj/YYforymj.git,master
