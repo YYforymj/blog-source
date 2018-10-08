@@ -1,6 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-categories:
+categories: 
 ---
 
+> abstract
+
+<!-- more -->
