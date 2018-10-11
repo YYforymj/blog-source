@@ -77,15 +77,15 @@ categories: jdk
 4. ExecutorService 2
 5. ThreadPoolExecutor 2
 6. BlockingQueue 2
-  7.AbstractQueuedSynchronizer 2
-  8.CountDownLatch 2
-7. FutureTask 2
-  10.Semaphore 2
-  11.CyclicBarrier 2
-  13.CopyOnWriteArrayList 3
-  14.SynchronousQueue 3
-  15.BlockingDeque 3
-8. Callable 4
+7. AbstractQueuedSynchronizer 2
+8. CountDownLatch 2
+9. FutureTask 2
+10. Semaphore 2
+11. CyclicBarrier 2
+12. CopyOnWriteArrayList 3
+13. SynchronousQueue 3
+14. BlockingDeque 3
+15. Callable 4
 
 四、java.util.concurrent.atomic
 
