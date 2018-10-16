@@ -80,5 +80,6 @@ theme: next
 deploy:
   type: git
   repo: 
-    github: https://github.com/YYforymj/YYforymj.github.io.git,master
-    giteee: https://gitee.com/YYforymj/YYforymj.git,master
+    github: https://github.com/YYforymj/YYforymj.github.io.git
+    giteee: https://gitee.com/YYforymj/YYforymj.git
+  branch: master
